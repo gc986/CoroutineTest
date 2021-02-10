@@ -4,6 +4,6 @@ import ru.gc986.model.Brand
 
 class TmpCache {
 
-    var brands: List<Brand>? = null
+    var brands: MutableList<Brand>? = null
 
 }
